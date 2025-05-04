@@ -1,0 +1,470 @@
+[
+  {
+    "index": 0,
+    "prevHash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": 1746378641475,
+    "transactions": [
+      {
+        "from": "GENESIS",
+        "to": "NETWORK",
+        "amount": 0,
+        "data": "Genesis",
+        "timestamp": 1746378641475
+      }
+    ],
+    "nonce": 0,
+    "difficulty": 5,
+    "hash": "f80f904af27cbe1bb9d3742d9bd5c75f44d26958c48e3c316face3655c6c7077",
+    "merkleRoot": "4ff0e6e671198b25811812f4496e0b4360ddf1c10a66e727045d3bd3cfee1c6a"
+  },
+  {
+    "index": 1,
+    "prevHash": "f80f904af27cbe1bb9d3742d9bd5c75f44d26958c48e3c316face3655c6c7077",
+    "timestamp": 1746378641513,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746378641512
+      }
+    ],
+    "merkleRoot": "93763a1468aaa8bc6d90c4e9245b02b9723c3294dd53811ac4d074792e03d3e2",
+    "difficulty": 5,
+    "nonce": 111612,
+    "hash": "000006eff11810fc8eeb22defe64a96a98fa36baced5f4dde80b747609333b0e"
+  },
+  {
+    "index": 1,
+    "prevHash": "f80f904af27cbe1bb9d3742d9bd5c75f44d26958c48e3c316face3655c6c7077",
+    "timestamp": 1746378641513,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746378641512
+      }
+    ],
+    "merkleRoot": "93763a1468aaa8bc6d90c4e9245b02b9723c3294dd53811ac4d074792e03d3e2",
+    "difficulty": 5,
+    "nonce": 1341512,
+    "hash": "0000068643c15ecef89df8fd7426163a050032df0cc3c5d85c8ae8b40e901ee4"
+  },
+  {
+    "index": 2,
+    "prevHash": "000006eff11810fc8eeb22defe64a96a98fa36baced5f4dde80b747609333b0e",
+    "timestamp": 1746378645357,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746378645357
+      }
+    ],
+    "merkleRoot": "b1c679cdcb8e3ac8cbff829230226d75bffba7f3db6201ba04f80a212e81adb0",
+    "difficulty": 5,
+    "nonce": 216149,
+    "hash": "00000db56d417b7c4c3841af701d30f6634b8ba92bb3308d961959414fd9abc6"
+  },
+  {
+    "index": 3,
+    "prevHash": "00000db56d417b7c4c3841af701d30f6634b8ba92bb3308d961959414fd9abc6",
+    "timestamp": 1746378650572,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746378650572
+      }
+    ],
+    "merkleRoot": "2cdc7b6ab3104afb5bd84c16f98910b8096302fcfa6d62eb13b43d48094fc4e8",
+    "difficulty": 5,
+    "nonce": 46824,
+    "hash": "00000bb237f58ef76c0410794856eb36d13c524284802249455fcc6bbb881dd5"
+  },
+  {
+    "index": 4,
+    "prevHash": "00000bb237f58ef76c0410794856eb36d13c524284802249455fcc6bbb881dd5",
+    "timestamp": 1746378997015,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746378997012
+      }
+    ],
+    "merkleRoot": "f13afa24608c068208d516d41bdab87dbbfb59dedabbe16358f8da7224de8516",
+    "difficulty": 5,
+    "nonce": 2228537,
+    "hash": "00000d7620bc5caca3aab92c091d8874a1908a2edae1dd07c782a53267a8755b"
+  },
+  {
+    "index": 5,
+    "prevHash": "00000d7620bc5caca3aab92c091d8874a1908a2edae1dd07c782a53267a8755b",
+    "timestamp": 1746379003613,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379003613
+      }
+    ],
+    "merkleRoot": "c13661a70f313c448f6e72b540ae108d4f4964ba82dc676165003857a02f2fb6",
+    "difficulty": 5,
+    "nonce": 104111,
+    "hash": "00000e94633d430a48c479f9099dc92d8c66ee7b0771c48a33ba0f6f01496167"
+  },
+  {
+    "index": 5,
+    "prevHash": "00000d7620bc5caca3aab92c091d8874a1908a2edae1dd07c782a53267a8755b",
+    "timestamp": 1746379003613,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379003613
+      }
+    ],
+    "merkleRoot": "c13661a70f313c448f6e72b540ae108d4f4964ba82dc676165003857a02f2fb6",
+    "difficulty": 5,
+    "nonce": 2930991,
+    "hash": "00000bf045cbe82b7b82a6c7f43e0ac8f22c871e75cef5dd2e6445620364476a"
+  },
+  {
+    "index": 5,
+    "prevHash": "00000d7620bc5caca3aab92c091d8874a1908a2edae1dd07c782a53267a8755b",
+    "timestamp": 1746379003613,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379003613
+      }
+    ],
+    "merkleRoot": "c13661a70f313c448f6e72b540ae108d4f4964ba82dc676165003857a02f2fb6",
+    "difficulty": 5,
+    "nonce": 1830981,
+    "hash": "000005e725cc261b30d3c89485d5a2466f2c0edca0a2fb84b084b336c81f3e81"
+  },
+  {
+    "index": 6,
+    "prevHash": "00000e94633d430a48c479f9099dc92d8c66ee7b0771c48a33ba0f6f01496167",
+    "timestamp": 1746379023903,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379023903
+      }
+    ],
+    "merkleRoot": "dda6b1ef481ba4cbdf8385d6e51f450422252db572ca47f771cee187ef5607bd",
+    "difficulty": 5,
+    "nonce": 1075129,
+    "hash": "000009c88fce3ac637af2a0876bc6e60cb447db39f2abe7065c71c4bec5e9036"
+  },
+  {
+    "index": 7,
+    "prevHash": "000009c88fce3ac637af2a0876bc6e60cb447db39f2abe7065c71c4bec5e9036",
+    "timestamp": 1746379060937,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379060930
+      }
+    ],
+    "merkleRoot": "55f9c23017580d01e7b64b8d97eaa83c9288276c47fcd6cd34f1ea874facea13",
+    "difficulty": 5,
+    "nonce": 2176527,
+    "hash": "000000409f9451354217b5c4179c2026e4e432b33feec515083cf2ca84916413"
+  },
+  {
+    "index": 8,
+    "prevHash": "000000409f9451354217b5c4179c2026e4e432b33feec515083cf2ca84916413",
+    "timestamp": 1746379254636,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379254633
+      }
+    ],
+    "merkleRoot": "600115d1b78a881ed5a3ed6932465aee24e01b072b3e1d532c040d0d5375fb25",
+    "difficulty": 5,
+    "nonce": 2371777,
+    "hash": "00000c5c4738ccba39cd0549bdb0d6d78d68f08bd8dd8eb1b2248fbc28999be3"
+  },
+  {
+    "index": 8,
+    "prevHash": "000000409f9451354217b5c4179c2026e4e432b33feec515083cf2ca84916413",
+    "timestamp": 1746379254636,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379254633
+      }
+    ],
+    "merkleRoot": "600115d1b78a881ed5a3ed6932465aee24e01b072b3e1d532c040d0d5375fb25",
+    "difficulty": 5,
+    "nonce": 989812,
+    "hash": "00000b96c3c03eee32da3424b644647b44b5cfd84feda404e660c5d086e41c44"
+  },
+  {
+    "index": 9,
+    "prevHash": "00000c5c4738ccba39cd0549bdb0d6d78d68f08bd8dd8eb1b2248fbc28999be3",
+    "timestamp": 1746379264897,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379264897
+      }
+    ],
+    "merkleRoot": "96842fdee264f73e9da1f9e8f68531a6dd73a7cf7d0c9125ee2a533a207a0d33",
+    "difficulty": 5,
+    "nonce": 1167956,
+    "hash": "0000009333294e855a23b95d2d1cb1d8ff1d27113e38f66bb3afd8d615e6de67"
+  },
+  {
+    "index": 9,
+    "prevHash": "00000c5c4738ccba39cd0549bdb0d6d78d68f08bd8dd8eb1b2248fbc28999be3",
+    "timestamp": 1746379264897,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379264897
+      }
+    ],
+    "merkleRoot": "96842fdee264f73e9da1f9e8f68531a6dd73a7cf7d0c9125ee2a533a207a0d33",
+    "difficulty": 5,
+    "nonce": 3725603,
+    "hash": "000006e36257b942581d65f2eef3c5bd1d37c95cdab4bed2fb5c9e2e627aff2e"
+  },
+  {
+    "index": 9,
+    "prevHash": "00000b96c3c03eee32da3424b644647b44b5cfd84feda404e660c5d086e41c44",
+    "timestamp": 1746379279050,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379279050
+      }
+    ],
+    "merkleRoot": "6ece05a49d6a09d0a595d5059f3a8064feed4cd0ec287827fc4c85737e893a40",
+    "difficulty": 5,
+    "nonce": 777117,
+    "hash": "00000a612988e6d012fb2d727c86ca3a2a46bd8af3c960f0fabb17948af76ed3"
+  },
+  {
+    "index": 10,
+    "prevHash": "0000009333294e855a23b95d2d1cb1d8ff1d27113e38f66bb3afd8d615e6de67",
+    "timestamp": 1746379283535,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379283535
+      }
+    ],
+    "merkleRoot": "e5821f121bdac7fdf22e774a174de838d5446f47a2342b5be13df800ce9170db",
+    "difficulty": 5,
+    "nonce": 403483,
+    "hash": "0000035ef4eb1db38fb9a78dfe7807fdec581e3014422477a1da2dd6e3d5e588"
+  },
+  {
+    "index": 10,
+    "prevHash": "000006e36257b942581d65f2eef3c5bd1d37c95cdab4bed2fb5c9e2e627aff2e",
+    "timestamp": 1746379297831,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379297831
+      }
+    ],
+    "merkleRoot": "5a235d3f7f35d5013e00f9a29a231662251edde62601c70c30cd69421cfc3864",
+    "difficulty": 5,
+    "nonce": 1013185,
+    "hash": "00000d798619a729e4a7093db9d7715a6ec5486a0930c01477ba6cda93140c72"
+  },
+  {
+    "index": 10,
+    "prevHash": "000006e36257b942581d65f2eef3c5bd1d37c95cdab4bed2fb5c9e2e627aff2e",
+    "timestamp": 1746379297831,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379297831
+      }
+    ],
+    "merkleRoot": "5a235d3f7f35d5013e00f9a29a231662251edde62601c70c30cd69421cfc3864",
+    "difficulty": 5,
+    "nonce": 2922573,
+    "hash": "000002d2be97e1d6b67a68971b61010c26c859d37f27b5d78086c5d8e7fc2f0e"
+  },
+  {
+    "index": 10,
+    "prevHash": "000006e36257b942581d65f2eef3c5bd1d37c95cdab4bed2fb5c9e2e627aff2e",
+    "timestamp": 1746379297831,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379297831
+      }
+    ],
+    "merkleRoot": "5a235d3f7f35d5013e00f9a29a231662251edde62601c70c30cd69421cfc3864",
+    "difficulty": 5,
+    "nonce": 3761728,
+    "hash": "00000f88c414d27f5b8e41ee0d9536bd4829e82166000c8bbc0d53b6f9646b08"
+  },
+  {
+    "index": 11,
+    "prevHash": "000002d2be97e1d6b67a68971b61010c26c859d37f27b5d78086c5d8e7fc2f0e",
+    "timestamp": 1746379360486,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379360486
+      }
+    ],
+    "merkleRoot": "7848cae2f4ce1f689008ae83302c59e0a2bba3a33e01d5a5f6685e90044762a4",
+    "difficulty": 6,
+    "nonce": 1027030,
+    "hash": "000000924dd6d0c0acc804f75c78efa48d4902f7eb818debadfe2e190696315d"
+  },
+  {
+    "index": 11,
+    "prevHash": "00000d798619a729e4a7093db9d7715a6ec5486a0930c01477ba6cda93140c72",
+    "timestamp": 1746379331591,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379331591
+      }
+    ],
+    "merkleRoot": "0d55bc23b9bc08c3bd5688106cad352745edc6814ae40ba03021d4ac421c87a4",
+    "difficulty": 6,
+    "nonce": 2988189,
+    "hash": "0000000a2aa3718b27ece8a4a54770c8cc2104f4e71a796a9f46774d22251af1"
+  },
+  {
+    "index": 12,
+    "prevHash": "0000000a2aa3718b27ece8a4a54770c8cc2104f4e71a796a9f46774d22251af1",
+    "timestamp": 1746379409444,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379409444
+      }
+    ],
+    "merkleRoot": "ca1687e656d998eaf88073c35ad326991663b175f797847437728ab0a35f719e",
+    "difficulty": 6,
+    "nonce": 2633003,
+    "hash": "000000031352af11ffb0e08b4c1d422421febc565852b764f986e2e93f0b7445"
+  },
+  {
+    "index": 13,
+    "prevHash": "000000031352af11ffb0e08b4c1d422421febc565852b764f986e2e93f0b7445",
+    "timestamp": 1746379517746,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746379517746
+      }
+    ],
+    "merkleRoot": "68528d9fbff9b89e1fe1b9bbad25e7d6be9fcd52839e049b7524d4ccd06539b4",
+    "difficulty": 6,
+    "nonce": 2735898,
+    "hash": "0000003a5a23501fbe2b390a18dcdef80f38f7065d28f9d524748d70dd3f11ef"
+  },
+  {
+    "index": 14,
+    "prevHash": "0000003a5a23501fbe2b390a18dcdef80f38f7065d28f9d524748d70dd3f11ef",
+    "timestamp": 1746385678377,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746385678374
+      }
+    ],
+    "merkleRoot": "3278b48973923a6471980fdc0373e4428c5af37e853f49f83777326e0b07711e",
+    "difficulty": 6,
+    "nonce": 383536,
+    "hash": "000000b760e19adcd27fef5f518ae08b66c7bbd7ea1dba1b134bc74dd3cba0c3"
+  },
+  {
+    "index": 15,
+    "prevHash": "000000b760e19adcd27fef5f518ae08b66c7bbd7ea1dba1b134bc74dd3cba0c3",
+    "timestamp": 1746385979813,
+    "transactions": [
+      {
+        "from": "NETWORK",
+        "to": "amy-HP-15-Notebook-PC",
+        "amount": 50,
+        "data": "Reward",
+        "timestamp": 1746385979810
+      }
+    ],
+    "merkleRoot": "e8f05c524c70e131c63e88e8eb6beb9e101786a16426ddb5ef2e7e492803a9ee",
+    "difficulty": 6,
+    "nonce": 892680,
+    "hash": "0000001637558965fad8ad8e6a3681edbb164846e1ff4a9103b4add88a065e29"
+  }
+]
